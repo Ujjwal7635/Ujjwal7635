@@ -29,8 +29,7 @@ I’ve worked extensively with:
 ---
 
 ## 💻 Tech Stack  
-
-### 🖼️ With Icons  
+  
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
