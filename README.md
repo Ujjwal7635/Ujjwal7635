@@ -23,7 +23,6 @@ I’ve worked extensively with:
 <a href="https://www.linkedin.com/in/ujjwal-verma-28732423b/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:ujjwalv699@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/Ujjwal7635" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://ujjwal7635.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
