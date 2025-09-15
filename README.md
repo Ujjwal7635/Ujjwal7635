@@ -83,15 +83,9 @@ I’ve worked extensively with:
 
 ---
 
-## 🐍 Contribution Snake Animation  
+## 🐍 Contribution Snake  
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ujjwal7635/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ujjwal7635/output/github-snake.svg">
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Ujjwal7635/output/github-snake.svg" />
-  </picture>
-</p>
+![Snake animation](https://github.com/Ujjwal7635/Ujjwal7635/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
