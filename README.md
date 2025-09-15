@@ -85,7 +85,9 @@ I’ve worked extensively with:
 
 ## 🐍 Contribution Snake  
 
-![Snake animation](https://github.com/Ujjwal7635/Ujjwal7635/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
